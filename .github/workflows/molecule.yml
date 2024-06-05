@@ -36,7 +36,7 @@ jobs:
 
       # Runs Molecule testing on the Ansible role
       - name: Molecule
-        uses: trippsc2/github-actions-molecule_vagrant_libvirt@main
+        uses: trippsc2/github-action-molecule_vagrant_libvirt@main
         with:
           molecule_options: ''
           molecule_command: test
