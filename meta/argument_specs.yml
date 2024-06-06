@@ -1,7 +1,7 @@
 ---
 argument_specs:
   main:
-    short_description: This role runs Bleachbit from a portable executable on Windows systems.
+    short_description: Bleachbit
     description:
       - This role runs Bleachbit from a portable executable on Windows systems.
     author: Jim Tarpley
