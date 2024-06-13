@@ -1,13 +1,13 @@
 <!-- BEGIN_ANSIBLE_DOCS -->
 
-# Ansible Role: trippsc2.bleachbit
-This role runs Bleachbit from a portable executable on Windows systems.
+# Ansible Role: ansible-role-bleachbit
+DEPRECATED: Use trippsc2.template.bleachbit instead.
 
 ## Requirements
 
 | Platform | Versions |
 | -------- | -------- |
-| Windows | 2016, 2019, 2022 |
+| Windows | <ul><li>2016</li><li>2019</li><li>2022</li></ul> |
 
 ## Dependencies
 

@@ -3,10 +3,10 @@ galaxy_info:
   author: Jim Tarpley
   namespace: trippsc2
   role_name: bleachbit
-  description: This role runs Bleachbit from a portable executable on Windows systems.
+  description: 'DEPRECATED: Use trippsc2.template.bleachbit instead.'
   license: MIT
 
-  min_ansible_version: '2.11'
+  min_ansible_version: '2.14'
 
   platforms:
   - name: Windows

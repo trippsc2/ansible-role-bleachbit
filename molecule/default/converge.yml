@@ -3,4 +3,4 @@
   hosts:
     - subjects
   roles:
-    - role: trippsc2.bleachbit
+    - role: trippsc2.template.bleachbit
